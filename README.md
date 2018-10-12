@@ -4,8 +4,4 @@ First of all, I defined my task in task.py which represents the straight take-of
 We include the current speed and angular velocity. We added a threshold for the distance to the target . If the "distance" is below the threshold, we get a reward. Also we added negative reward to control the stability of takeoff and deviation from target.
 The agent controls the quadcopter, so I used Actor-Critic model when I designed my agent. For actor.py and for a critic.py I used neural networks.
 
-Libraries:
-Tensorflow
-Keras
-Matplotlib
-Numpy
+Libraries that maybe you should install-keras
