@@ -6,5 +6,5 @@ The agent controls the quadcopter, so I used Actor-Critic model when I designed 
 
 Libraries which maybe you should install: keras
 
-file Quadcopter-Project.html-html version of .ipynb file
+file Quadcopter_Project.html-html version of .ipynb file
 
